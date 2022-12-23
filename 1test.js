@@ -60,8 +60,7 @@ testCase = a =>
       a == 8 ? "Восемь": 
                "Девять";
 
-// 7. Logical operators
-testCase = a => 
+// 7. Logical operators 1
       a == 0 && "Ноль"   || 
       a == 1 && "Один"   || 
       a == 2 && "Два"    || 
